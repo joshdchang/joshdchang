@@ -1,0 +1,43 @@
+html {
+  font-family: "Courier New", Courier, monospace;
+  background: #263238;
+  text-align: center;
+}
+
+h1, p {
+  color: white;
+  margin: 40px;
+}
+
+textarea {
+  box-shadow: 0px 1px 4px 1px #000000;
+  width: 90%;
+  max-width: 700px;
+  height: 200px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+button {
+  font-family: "Courier New", Courier, monospace;
+  box-shadow: 0px 1px 4px 1px #000000;
+  background: #eeeeee;
+  font-weight: bold;
+  border: none;
+  width: 200px;
+  height: 40px;
+  font-size: 18px;
+  margin-top: 30px;
+  margin-bottom: 36px;
+  border-radius: 10px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+#key {
+  height: 15px;
+}
+
+/*# sourceMappingURL=style.css.map */
