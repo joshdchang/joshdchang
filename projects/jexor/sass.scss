@@ -13,6 +13,7 @@ h1,p {
 }
 textarea {
     box-shadow: $shadow;
+    font-family: $main-font;
 
     width: 90%;
     max-width: 700px;

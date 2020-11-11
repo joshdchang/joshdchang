@@ -11,6 +11,7 @@ h1, p {
 
 textarea {
   box-shadow: 0px 1px 4px 1px #000000;
+  font-family: "Courier New", Courier, monospace;
   width: 90%;
   max-width: 700px;
   height: 200px;
