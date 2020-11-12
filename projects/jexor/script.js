@@ -9,6 +9,8 @@ function encrypt() {
     $('#result').val(cypherText);
 }
 
+encrypt();
+
 function prepareInput(inputElem, callback){
 	inputElem.focus(
 		function () {
@@ -17,12 +19,6 @@ function prepareInput(inputElem, callback){
 	).blur(
 		function () {
 			callback($(this).val());
-		}
-	).keyup(
-		function (e) {
-			if (e.keyCode === 13) {
-				$(this).trigger('blur');
-			}
 		}
 	);
 }
