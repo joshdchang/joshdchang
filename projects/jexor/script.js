@@ -1,7 +1,30 @@
 
+prepareInput($('#text'), encrypt);
+prepareInput($('#key'), encrypt);
+
+prepareInput($('#result'), () => {});
+
 function encrypt() {
     var cypherText = JEXOR($('#text').val(), $('#key').val());
     $('#result').val(cypherText);
+}
+
+function prepareInput(inputElem, callback){
+	inputElem.focus(
+		function () {
+			$(this).select();
+		}
+	).blur(
+		function () {
+			callback($(this).val());
+		}
+	).keyup(
+		function (e) {
+			if (e.keyCode === 13) {
+				$(this).trigger('blur');
+			}
+		}
+	);
 }
 
 function JEXOR(input, key){
