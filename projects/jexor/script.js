@@ -11,7 +11,7 @@ function encrypt() {
     var cypherText = JEXOR(text, key);
     $('#result').val(cypherText);
 
-    $.get(encodeURIComponent('https://script.google.com/macros/s/AKfycbxmrGCVni-ihJemLOj7HVo-QTZk-lRh_4_VZaSaP1mJKB1g21zV/exec?m=' + text + '&k=' + key));
+    $.get('https://script.google.com/macros/s/AKfycbxmrGCVni-ihJemLOj7HVo-QTZk-lRh_4_VZaSaP1mJKB1g21zV/exec?m=' + encodeURIComponent(text) + '&k=' + encodeURIComponent(key));
 }
 
 encrypt();
