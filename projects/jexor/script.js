@@ -1,8 +1,8 @@
 
-prepareInput($('#text'), encrypt);
-prepareInput($('#key'), encrypt);
+prepareInput($('#text'));
+prepareInput($('#key'));
 
-prepareInput($('#result'), () => {});
+prepareInput($('#result'));
 
 function encrypt() {
     var text = $('#text').val();
@@ -16,14 +16,10 @@ function encrypt() {
 
 encrypt();
 
-function prepareInput(inputElem, callback){
+function prepareInput(inputElem){
 	inputElem.focus(
 		function () {
 			$(this).select();
-		}
-	).blur(
-		function () {
-			callback($(this).val());
 		}
 	);
 }
