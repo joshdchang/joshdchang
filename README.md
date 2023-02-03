@@ -1,4 +1,4 @@
-# Josh Chang
+# Josh Chang – About Me!
 
 Hi, my name is Josh. I'm originally from Irvington, NY, and I'm currently a freshman studying computer science at Yale University. I've been coding since I was a little kid, and it's one of my favorite things to do; there is something so magical about solving problems and creating cool stuff. My other hobbies/interests are geology and meteorology (especially snow!).
 
