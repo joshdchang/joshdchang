@@ -7,7 +7,7 @@ My main area of expertise is definitely web development, and I'm proffecient wit
 I also like graphic design, and I try to apply that to my websites. I guess I'm one of the few people who actually enjoys CSS.
 
 The main projects I'm working on right now are:
-- A whole new custom CMS for the Yale Daily News (using Qwik)
-- A website for the Yale Outdoors club (using Astro and Solid)
+- A whole new CMS for the Yale Daily News (using Qwik)
+- An app for a fintech startup
 
 Most of the public repos on my GitHub are from high school, and a bunch of them are broken, but feel free to take a peak around!
