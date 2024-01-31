@@ -12,4 +12,4 @@ The main projects I'm working on right now are:
 
 Most of the public repos on my GitHub are from high school, and a bunch of them are broken, but feel free to take a peak around!
 
-I'm always open to freelance, so get in touch if you need a web developer ([joshchang04@gmail.com](mailto:joshchang04@gmail.com)).
+I'm always open to freelance, so get in touch at [joshchang04@gmail.com](mailto:joshchang04@gmail.com).
