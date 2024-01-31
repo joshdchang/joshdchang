@@ -1,6 +1,6 @@
 # Josh Chang – About Me!
 
-Hi, I'm Josh! I'm originally from Irvington, NY, and I'm currently a sophomore studying computer science at Yale University. I've been coding since I was a little kid, and it's one of my favorite things to do; there is something so magical about solving problems and creating cool stuff. My other hobbies/interests are geology and meteorology (especially snow!).
+Hi, I'm Josh! I'm originally from Irvington, NY, and I'm currently a sophomore studying computer science at Yale University. I've been coding since I was a little kid, and it's one of my favorite things to do; there is something so magical about solving problems and creating cool stuff. My other hobbies/interests include geology and meteorology (especially snow!), which is why I am majoring in Earth science as well.
 
 My main area of expertise is definitely web development, and I'm proffecient with a bunch of different tools, like React, Vue, NodeJS, Express, Next, Nuxt, Astro, Qwik, Solid, as well as just plain old JavaScript/TypeScript.
 
@@ -11,3 +11,5 @@ The main projects I'm working on right now are:
 - An app for a fintech startup
 
 Most of the public repos on my GitHub are from high school, and a bunch of them are broken, but feel free to take a peak around!
+
+I'm always open to freelance, so get in touch if you need a web developer ([joshchang04@gmail.com](mailto:joshchang04@gmail.com)).
