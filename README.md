@@ -8,7 +8,6 @@ I also like graphic design, and I try to apply that to my websites. I guess I'm 
 
 The main projects I'm working on right now are:
 - Building a new content management system from scratch for the Yale Daily News
-- Creating an app for my friend's social fintech startup
 - Experimenting with machine learning weather prediction using satellite data
 
 Most of the public repos on my GitHub are from high school, and a bunch of them are broken, but feel free to take a peak around!
