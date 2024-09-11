@@ -1,6 +1,6 @@
 # Josh Chang – About Me!
 
-Hi, I'm Josh! I'm originally from Irvington, NY, and I'm currently a sophomore studying computer science at Yale University. I've been coding since I was a little kid, and it's one of my favorite things to do; there is something so magical about solving problems and creating cool stuff. My other hobbies/interests include meteorology (especially snow!), geology, and hiking.
+Hi, I'm Josh! I'm originally from Irvington, NY, and I'm currently a junior studying computer science at Yale University. I've been coding since I was a little kid, and it's one of my favorite things to do; there is something so magical about solving problems and creating cool stuff. My other hobbies/interests include meteorology (especially snow!), geology, and hiking.
 
 My main area of expertise is definitely web development. I started learning JavaScript when I was nine years old, and in the decade since I have gotten pretty familiar with the language and ecosystem surrounding it. I love TypeScript, and am profficient with tools like React, Vue, NodeJS, Express, Next, Nuxt, Astro, Qwik, Solid, and Tailwind, as well as Web Standards and APIs.
 
