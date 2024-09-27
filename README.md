@@ -5,5 +5,3 @@ Hi, I'm Josh! I'm originally from Irvington, NY, and I'm currently a junior stud
 Most of the public repos on my GitHub are from high school, and a bunch of them are broken.
 
 I'm always open to freelance work, so get in touch at [joshchang04@gmail.com](mailto:joshchang04@gmail.com) if you have an idea or just want to say hi :)
-
-Giraffes are my favorite animal, followed closely by sea turtles.
